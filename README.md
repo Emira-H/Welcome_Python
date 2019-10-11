@@ -1,15 +1,17 @@
 
-#Présentation
+ # Présentation
 
-Nom: HARRIOUI
-Prénom: Emira
+ Nom: HARRIOUI
+ Prénom: Emira
 
-#Objectif de la formation Python
-J'ai choisi cette formation pour obtenir des bases solides en programmation sur un langage très demandé dans les métiers de data analyste
+ # Objectif de la formation Python
+ J'ai choisi cette formation pour obtenir des bases solides 
+ en programmation sur un langage très demandé dans les 
+ métiers de data analyste
  
-#Parcours
+ # Parcours
 
-##Formation
-DESS MQME
-##Expérience Professionnelle
-SWISSLIFE
+ ## Formation
+ DESS MQME
+ ## Expérience Professionnelle
+ SWISSLIFE
